@@ -32,7 +32,11 @@ export const userinfo = {
       link: "https://pk.linkedin.com/in/ahmer-husnain-3093a118b",
       icon: faLinkedinIn,
     },
-    { type: "medium", link: "", icon: faMediumM },
+    {
+      type: "Fiverr",
+      link: "https://www.fiverr.com/ahmerhusnain?public_mode=true",
+      icon: faMediumM,
+    },
   ],
   greeting: {
     //this text goes on your landing page
