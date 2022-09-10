@@ -42,7 +42,7 @@ const Navbar = ({ toggleTheme, currentTheme }) => {
       >
         <Link href="https://www.fiverr.com/ahmerhusnain?public_mode=true">
           <a>
-            <h2 className={styles.logo}>{userinfo.logoText}</h2>
+            <h2 className={styles.logo}>{"Wanna Talk?"}</h2>
           </a>
         </Link>
         {!drawerVisible ? (

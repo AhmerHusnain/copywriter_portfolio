@@ -13,7 +13,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 
 export const userinfo = {
-  logoText: "Wanna Talk ?", //This text is visible on your navbar and footer like your logo.
+  logoText: "Ahmer Husnain", //This text is visible on your navbar and footer like your logo.
   contact: {
     email: "chahmer143@email.com", //It is always a good idea to mention your email on your website. Good platform to communicate.
     phone: "3019556310", //Phone number is optional, if you dont want it, consider leaving it blank .
